@@ -2,6 +2,8 @@
 *
 # Unignore all with extensions
 !*.*
+!Makefile
 # Unignore all dirs
 !*/
 /.vscode
+*.o
